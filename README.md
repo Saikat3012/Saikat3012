@@ -30,6 +30,5 @@ I really enjoy learning languages and frameworks like Python, Java, ReactNative 
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat3012)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Saikat3012)
