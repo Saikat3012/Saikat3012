@@ -2,7 +2,8 @@
 
 ![](https://github.com/Saikat3012/Saikat3012/blob/main/assets/banner.png)
 
-**I'm Saikat Sarkar, from Kolkata, WB, India. I really enjoy learning languages and frameworks like Python, Java, ReactNative etc..**
+**I'm Saikat Sarkar, from Kolkata, WB, India. 
+I really enjoy learning languages and frameworks like Python, Java, ReactNative etc..**
 
 <h1>Things I code with</h1>
 
