@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Saikat Sarkar
-![](https://Saikat3012.github.io/assets/banner.png)
+![](https://github.com/Saikat3012/Saikat3012/blob/master/banner.png)
 
 I'm Saikat Sarkar, from Kolkata, WB, India. I really enjoy learning languages and frameworks like Python, Java, ReactNative etc..
 
